@@ -1,0 +1,10 @@
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('7b889aaf-f90d-4554-a9ff-9dfe7c8b74ab', 'johnsonjoshua@example.org', 3200.74, 'pending', '2026-01-05T04:49:10.710507');
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('c7956037-141e-4945-acdf-a0b17e9be894', 'rhodespatricia@example.org', 3710.34, 'processing', '2026-01-18T18:38:44.169206');
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('49839d88-dcbf-44d0-895d-4b783319576b', 'johnsonjeffery@example.net', 1123.82, 'pending', '2026-01-19T02:58:24.895945');
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('7e016a2c-d555-4bfb-829a-085510e2576d', 'jennifermiles@example.com', 3386.73, 'cancelled', '2026-01-07T15:16:25.897584');
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('a7921579-18e5-404c-a3be-ec00df19817f', 'lisa02@example.net', 443.82, 'delivered', '2026-01-13T17:20:58.084893');
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('c3d944a2-a1cb-47e4-8b6c-3e554c0a17a2', 'eric51@example.org', 168.6, 'pending', '2026-01-12T10:30:25.102415');
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('266b3b1d-c3f2-4a3f-ba19-9d934d04c74f', 'melanie94@example.org', 1101.0, 'cancelled', '2026-01-22T23:14:58.053051');
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('43195466-d231-4c27-8a86-0b7e2294ba65', 'dudleynicholas@example.net', 3014.07, 'cancelled', '2026-01-09T19:49:43.095985');
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('f42115a8-ebe3-4d95-a9b9-3c2e38d8541d', 'barbara10@example.net', 1002.2, 'cancelled', '2026-01-07T20:39:43.925814');
+INSERT INTO "orders" ("order_id", "customer_email", "total", "status", "created_at") VALUES ('9d4fcfbc-03a3-4698-a4f6-ce4e21b6385e', 'tracie31@example.com', 2103.4, 'delivered', '2026-01-09T08:50:34.359314');

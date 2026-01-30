@@ -1,0 +1,92 @@
+[
+  {
+    "employee_id": "EMP-1043",
+    "first_name": "Jeffrey",
+    "last_name": "Doyle",
+    "email": "garzaanthony@robinson.org",
+    "department": "Finance",
+    "hire_date": "2026-01-01",
+    "salary": 66699.66
+  },
+  {
+    "employee_id": "EMP-3863",
+    "first_name": "Shane",
+    "last_name": "Ramirez",
+    "email": "blakeerik@peterson-moore.com",
+    "department": "Finance",
+    "hire_date": "2026-01-03",
+    "salary": 91254.4
+  },
+  {
+    "employee_id": "EMP-6155",
+    "first_name": "Cassandra",
+    "last_name": "Roman",
+    "email": "yherrera@arnold.org",
+    "department": "QA",
+    "hire_date": "2026-01-26",
+    "salary": 70930.69
+  },
+  {
+    "employee_id": "EMP-5931",
+    "first_name": "Brandon",
+    "last_name": "Perez",
+    "email": "tracie31@ramirez-reid.com",
+    "department": "Engineering",
+    "hire_date": "2026-01-05",
+    "salary": 151504.92
+  },
+  {
+    "employee_id": "EMP-5341",
+    "first_name": "Chelsea",
+    "last_name": "Jackson",
+    "email": "frankgray@watts.com",
+    "department": "HR",
+    "hire_date": "2026-01-07",
+    "salary": 63040.82
+  },
+  {
+    "employee_id": "EMP-0564",
+    "first_name": "Carl",
+    "last_name": "Gentry",
+    "email": "jason76@ellis.net",
+    "department": "Design",
+    "hire_date": "2026-01-16",
+    "salary": 54767.4
+  },
+  {
+    "employee_id": "EMP-9696",
+    "first_name": "Michael",
+    "last_name": "Osborn",
+    "email": "williamdavis@callahan.com",
+    "department": "Engineering",
+    "hire_date": "2026-01-23",
+    "salary": 82795.7
+  },
+  {
+    "employee_id": "EMP-6916",
+    "first_name": "Patrick",
+    "last_name": "Ferrell",
+    "email": "tasha01@dyer.com",
+    "department": "HR",
+    "hire_date": "2026-01-04",
+    "salary": 140302.81
+  },
+  {
+    "employee_id": "EMP-6270",
+    "first_name": "Stephanie",
+    "last_name": "Liu",
+    "email": "teresa28@harrell.net",
+    "department": "HR",
+    "hire_date": "2026-01-18",
+    "salary": 79825.65
+  },
+  {
+    "employee_id": "EMP-2528",
+    "first_name": "Stephanie",
+    "last_name": "Nielsen",
+    "email": "georgetracy@hickman.com",
+    "department": "Finance",
+    "hire_date": "2026-01-02",
+    "salary": 155198.75
+  }
+]

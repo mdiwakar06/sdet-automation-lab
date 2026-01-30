@@ -1,0 +1,20 @@
+- card_number: '4043321819600132'
+  card_type: VISA 13 digit
+  expiry: 02/31
+  cvv: '838'
+- card_number: '6011794026542359'
+  card_type: Mastercard
+  expiry: 01/27
+  cvv: '559'
+- card_number: '4781618495931034133'
+  card_type: Mastercard
+  expiry: 11/29
+  cvv: '525'
+- card_number: '344192832764831'
+  card_type: VISA 16 digit
+  expiry: 04/29
+  cvv: '305'
+- card_number: '6513953767242388'
+  card_type: JCB 15 digit
+  expiry: 09/28
+  cvv: '696'

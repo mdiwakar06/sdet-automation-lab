@@ -1,0 +1,82 @@
+[
+  {
+    "id": "11052555-1b75-402a-a487-516e370c73f2",
+    "first_name": "Danielle",
+    "last_name": "Johnson",
+    "email": "john21@example.net",
+    "phone": "001-581-896-0013x3890",
+    "created_at": "2026-01-07T15:16:25.677143"
+  },
+  {
+    "id": "de3249a4-8f7d-4e52-9e9f-cdb8c5d37c2d",
+    "first_name": "Bridget",
+    "last_name": "Pacheco",
+    "email": "blakeerik@example.com",
+    "phone": "942-335-1161x55940",
+    "created_at": "2026-01-30T07:06:00.709413"
+  },
+  {
+    "id": "f8f4baf7-7bec-4584-bf07-96492d0ffdc8",
+    "first_name": "Nicholas",
+    "last_name": "Arnold",
+    "email": "barbara10@example.net",
+    "phone": "441.731.6475",
+    "created_at": "2026-01-11T16:41:30.710384"
+  },
+  {
+    "id": "88143030-ac02-4077-b38f-b117493cc7f7",
+    "first_name": "Elizabeth",
+    "last_name": "Miles",
+    "email": "lynchgeorge@example.net",
+    "phone": "527.264.8350",
+    "created_at": "2026-01-25T05:39:55.776882"
+  },
+  {
+    "id": "6bfff466-4cd8-4584-ba2a-953a2f5a7ecc",
+    "first_name": "Richard",
+    "last_name": "Jones",
+    "email": "jason76@example.net",
+    "phone": "724.523.8849x696",
+    "created_at": "2026-01-31T00:35:33.110544"
+  },
+  {
+    "id": "e9eaa7ce-773f-4617-83a7-a2653f972082",
+    "first_name": "Devon",
+    "last_name": "Snyder",
+    "email": "callahaneric@example.org",
+    "phone": "+1-669-716-6978x48018",
+    "created_at": "2026-01-04T08:35:57.131666"
+  },
+  {
+    "id": "6f86fe1f-2b36-44e0-a561-3165f44dd811",
+    "first_name": "Ryan",
+    "last_name": "Chavez",
+    "email": "teresa28@example.org",
+    "phone": "+1-948-293-2528x8095",
+    "created_at": "2026-01-04T08:49:37.909787"
+  },
+  {
+    "id": "9eb50edb-31c5-4162-aa77-b6836331d849",
+    "first_name": "Michael",
+    "last_name": "Galloway",
+    "email": "john39@example.org",
+    "phone": "671-882-2782",
+    "created_at": "2026-01-30T00:46:33.746824"
+  },
+  {
+    "id": "4032a8f9-699f-4c2f-a77f-77fdc2f3b3f9",
+    "first_name": "Sarah",
+    "last_name": "Campos",
+    "email": "jenniferross@example.net",
+    "phone": "+1-557-587-1331x5098",
+    "created_at": "2026-01-01T05:11:44.012185"
+  },
+  {
+    "id": "71448645-e6f6-4c78-90fa-3c34f0d5f1ba",
+    "first_name": "Jean",
+    "last_name": "Brown",
+    "email": "whiteheadmichele@example.org",
+    "phone": "334.373.8299x73763",
+    "created_at": "2026-01-20T20:07:52.780952"
+  }
+]
