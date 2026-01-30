@@ -7,16 +7,21 @@ A hands-on repository documenting practical SDET automation experiments, pattern
 | Project | Language | Description |
 |---------|----------|-------------|
 | [testdata-generator-python](./testdata-generator-python) | Python | CLI tool for generating realistic test data (users, addresses, payments, etc.) in JSON, CSV, SQL formats |
+| [flaky-test-analyzer-typescript](./flaky-test-analyzer-typescript) | TypeScript | Analyze test results across multiple runs to identify flaky tests with flakiness scoring |
 
 ## Repository Structure
 
 ```
 sdet-automation-lab/
-├── testdata-generator-python/   # Test data generation tool
-│   ├── testdata_generator/      # Python package
+├── testdata-generator-python/        # Test data generation tool
+│   ├── testdata_generator/           # Python package
 │   ├── setup.py
 │   └── README.md
-└── README.md                    # This file
+├── flaky-test-analyzer-typescript/   # Flaky test detection tool
+│   ├── src/                          # TypeScript source
+│   ├── samples/                      # Sample test reports
+│   └── README.md
+└── README.md                         # This file
 ```
 
 ## Roadmap

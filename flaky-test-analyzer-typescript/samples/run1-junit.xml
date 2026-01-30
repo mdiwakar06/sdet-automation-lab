@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite" tests="5" failures="1" errors="0" time="12.5" timestamp="2026-01-25T10:00:00">
+  <testsuite name="LoginTests" tests="3" failures="1" time="5.2">
+    <testcase classname="LoginTests" name="should login with valid credentials" time="1.2"/>
+    <testcase classname="LoginTests" name="should show error for invalid password" time="0.8"/>
+    <testcase classname="LoginTests" name="should handle network timeout" time="3.2">
+      <failure message="Timeout waiting for response">
+        AssertionError: Expected response within 3000ms
+        at LoginTests.testNetworkTimeout (tests/login.spec.ts:45:10)
+      </failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="CartTests" tests="2" failures="0" time="7.3">
+    <testcase classname="CartTests" name="should add item to cart" time="2.1"/>
+    <testcase classname="CartTests" name="should calculate total correctly" time="5.2"/>
+  </testsuite>
+</testsuites>

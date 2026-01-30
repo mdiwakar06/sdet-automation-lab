@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite" tests="5" failures="0" errors="0" time="10.9" timestamp="2026-01-28T10:00:00">
+  <testsuite name="LoginTests" tests="3" failures="0" time="4.5">
+    <testcase classname="LoginTests" name="should login with valid credentials" time="1.0"/>
+    <testcase classname="LoginTests" name="should show error for invalid password" time="0.8"/>
+    <testcase classname="LoginTests" name="should handle network timeout" time="2.7"/>
+  </testsuite>
+  <testsuite name="CartTests" tests="2" failures="0" time="6.4">
+    <testcase classname="CartTests" name="should add item to cart" time="1.9"/>
+    <testcase classname="CartTests" name="should calculate total correctly" time="4.5"/>
+  </testsuite>
+</testsuites>
